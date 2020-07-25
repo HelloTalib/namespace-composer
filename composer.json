@@ -1,0 +1,16 @@
+{
+    "name": "talib/composer",
+    "description": "composer practice series",
+    "authors": [
+        {
+            "name": "TALIB4590",
+            "email": "abutalib4590@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "Animals\\" : "Animals/"
+        }
+    }
+}
